@@ -1,3 +1,4 @@
-# 18103006
-java
-This is assignment 1 and 2 from web technologies 
+# 18103006.
+# Sarvagya Meel
+java.
+This is java assignments from course "web technologies". 
